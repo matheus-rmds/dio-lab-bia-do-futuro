@@ -1,4 +1,4 @@
-# 🤖 Agente Financeiro Inteligente com IA Generativa
+# Finon - Agente Financeiro Inteligente com IA
 
 ## Contexto
 
