@@ -1,5 +1,16 @@
 # Base de Conhecimento
 
+> [!TIP]
+> **Prompt sugerido para essa etapa:**
+>
+>```
+>Preciso organizar a base de conhecimento do meu agente educador financeiro.
+>Me ajude a:
+>(1) Entender o que cada arquivo contém
+>(2) Decidir como usar cada um
+>(3) Criar um exemplo de contexto formatado para incluir um prompt
+>```
+
 ## Dados Utilizados
 
 Descreva se usou os arquivos da pasta `data`, por exemplo:
